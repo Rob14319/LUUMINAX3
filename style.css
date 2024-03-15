@@ -17,8 +17,6 @@ body{
     color: white;
     text-align: left;
     font-family: "Lexend Deca", sans-serif;
-    font-size: 1.0625rem;
-    font-size: clamp(1.0625rem, 0.8375rem + 1.125vw, 2.1875rem);
 }
 
 .heading span{
